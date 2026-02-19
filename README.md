@@ -35,6 +35,4 @@ python main.py
 2. Create a new branch for your feature or bugfix.
 3. Commit your changes and push to your fork.
 4. Open a pull request describing your changes.
-
-## Developer
-Developer: tubakhxn
+
