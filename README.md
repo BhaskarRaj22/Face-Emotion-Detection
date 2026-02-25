@@ -30,9 +30,3 @@ python main.py
 - Predictions are smoothed to avoid flickering.
 - Press 'q' to exit the application cleanly.
 
-## How to Fork and Contribute
-1. Fork this repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes and push to your fork.
-4. Open a pull request describing your changes.
-
